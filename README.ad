@@ -1,0 +1,14 @@
+= Escaper
+
+A simple *string escape* tool for D.
+
+== Supported Escape Sequences
+
+```bash
+"\033"
+"\e" => "\033"
+"\x1b"
+"\n"
+"\t"
+"\r"
+```
